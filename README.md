@@ -1,6 +1,6 @@
 # TestAutomationProject_.Net
 
-This an onging test autmation project for DeepInsignt99 website(https://deepinsights99.com/), the project contains building automation framework in C#.
+This repo is an ongoing test automation project for the DeepInsignt99 website(https://deepinsights99.com/). The project contains a building automation framework in C#.
 
 **Tools&Technologies**
 
